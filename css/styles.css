@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+.header {
+    background-color: #eaf6f6;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #66bfbf;
+    border-width: 7px;
+    width: 5%;
+    height: 0%;
+    margin: 100px auto;
+}
+
+h1 {
+    color: #66bfbf;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 10%;
+    right: 20%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 45%;
+    left: 20%;
+}
+
+.bigger {
+    font-size: 5rem;
+}
+
+.mountain {
+    position: relative;
+    top: 0;
+    bottom: 0;
+}
+
+.skills {
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+.big {
+    font-size: 3rem;
+    margin-top: 0;
+}
+
+.computer {
+    width: 25%;
+    float: left;
+    margin-right: 25px;
+}
+
+.python-logo {
+    width: 25%;
+    float: right;
+    margin-left: 25px;
+}
+
+.info {
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+    margin-top: 50px;
+}
+
+.profile-img {
+    width: 50%;
+}
+
+.contactme {
+    width: 50%;
+    margin: auto;
+}
+
+.footer {
+    background-color: #66bfbf;
+    padding: 25px;
+    padding-top: 50px;
+
+}
+
+.copyright {
+    color: #eaf6f6;
+    margin: 25px;
+}
+
+.facebook {
+    margin: 25px;
+}
+
+.twitter {
+    margin: 25px;
+}
+
+.website {
+    margin: 25px;
+}
+
+.button {
+    background-color: #eaf6f6;
+    padding: 1px;
+    margin: 50px auto;
+    width: 200px;
+    border-radius: 50px;
+}
+
+.button:hover {
+    background-color: #66bfbf;
+}
+
+.button-text {
+    color: #11999E;
+    font-size: 1.5rem;
+}
